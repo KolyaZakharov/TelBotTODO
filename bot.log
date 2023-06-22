@@ -1,0 +1,31 @@
+2023-06-22 01:38:53,318 - ERROR - Error running the bot: 'completed'
+2023-06-22 01:40:26,084 - ERROR - Error running the bot: bad operand type for unary +: 'str'
+2023-06-22 01:41:03,023 - ERROR - Error running the bot: bad operand type for unary +: 'str'
+2023-06-22 01:41:52,969 - ERROR - Error running the bot: 'completed'
+2023-06-22 01:47:12,494 - INFO - Запрос на просмотр заметки успешно обработан.
+2023-06-22 01:47:12,494 - INFO - Запрос на просмотр заметки завершен.
+2023-06-22 01:47:18,590 - ERROR - Ошибка при получении информации о заметке: 404 Client Error: Not Found for url: http://127.0.0.1:8000/api/tasks/1/
+2023-06-22 01:47:18,590 - INFO - Запрос на просмотр заметки завершен.
+2023-06-22 01:53:51,794 - ERROR - Ошибка при обновлении задачи: 400 Client Error: Bad Request for url: http://127.0.0.1:8000/api/tasks/4/
+2023-06-22 01:57:18,430 - ERROR - Ошибка при обновлении задачи: 400 Client Error: Bad Request for url: http://127.0.0.1:8000/api/tasks/4/
+2023-06-22 01:57:48,932 - ERROR - Ошибка при обновлении задачи: 400 Client Error: Bad Request for url: http://127.0.0.1:8000/api/tasks/4/
+2023-06-22 01:58:52,849 - ERROR - Ошибка при обновлении задачи: 400 Client Error: Bad Request for url: http://127.0.0.1:8000/api/tasks/4/
+2023-06-22 02:05:22,615 - ERROR - Error running the bot: empty separator
+2023-06-22 02:30:44,238 - INFO - Запрос на просмотр задачи успешно обработан.
+2023-06-22 02:30:44,238 - INFO - Запрос на просмотр задачи завершен.
+2023-06-22 02:32:42,240 - INFO - Запрос на просмотр задачи успешно обработан.
+2023-06-22 02:32:42,240 - INFO - Запрос на просмотр задачи завершен.
+2023-06-22 02:33:05,877 - INFO - Запрос на просмотр задачи успешно обработан.
+2023-06-22 02:33:05,877 - INFO - Запрос на просмотр задачи завершен.
+2023-06-22 02:34:03,301 - INFO - Запрос на просмотр задачи успешно обработан.
+2023-06-22 02:34:03,302 - INFO - Запрос на просмотр задачи завершен.
+2023-06-22 02:34:25,853 - INFO - Запрос на просмотр задачи успешно обработан.
+2023-06-22 02:34:25,853 - INFO - Запрос на просмотр задачи завершен.
+2023-06-22 02:37:47,484 - ERROR - Error running the bot: A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-06-22 02:38:03,422 - ERROR - Error running the bot: A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-06-22 02:38:19,452 - ERROR - Error running the bot: A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-06-22 02:47:54,451 - ERROR - Error running the bot: name 'json' is not defined
+2023-06-22 02:52:30,499 - ERROR - Error running the bot: list index out of range
+2023-06-22 03:00:28,624 - INFO - Запрос на просмотр задачи успешно обработан.
+2023-06-22 03:00:28,624 - INFO - Запрос на просмотр задачи завершен.
+2023-06-22 03:27:24,508 - ERROR - Ошибка при создании задачи: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/tasks/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000135717BDC10>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
